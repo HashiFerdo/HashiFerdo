@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://hashiferdo.github.io/](https://hashiferdo.github.io/)
 
-- 💬 Ask me about **React ,Node ,Android**
+- 💬 Ask me about **React ,Node ,Java**
 
 - 📫 How to reach me **hashifernando1999@gmail.com**
 
